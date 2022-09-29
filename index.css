@@ -5,6 +5,10 @@ h1 {
     color: #0f2f57ff;
 }
 
+html {
+    scroll-behavior: smooth; 
+}
+
 p {
     text-align: center;
     font-family: 'Lato', sans-serif;
